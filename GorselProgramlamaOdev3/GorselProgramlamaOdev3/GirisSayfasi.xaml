@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage
+    x:Class="GorselProgramlamaOdev3.GirisSayfasi"
+    xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    Title="Giriş">
+
+    <VerticalStackLayout
+        Padding="30"
+        Spacing="15"
+        VerticalOptions="Center">
+
+        <Label
+            Text="Oturum Aç"
+            FontSize="26"
+            FontAttributes="Bold"
+            HorizontalOptions="Center" />
+
+        <Entry
+            x:Name="EmailEntry"
+            Placeholder="E-posta"
+            Keyboard="Email" />
+
+        <Entry
+            x:Name="SifreEntry"
+            Placeholder="Şifre"
+            IsPassword="True" />
+
+        <Button
+            Text="Giriş Yap"
+            Clicked="Giris_ButtonClicked" />
+
+        <Button
+            Text="Kaydol"
+            Clicked="Kaydol_ButtonClicked"
+            BackgroundColor="Transparent"
+            TextColor="Blue" />
+
+    </VerticalStackLayout>
+</ContentPage>
+
+
+
+

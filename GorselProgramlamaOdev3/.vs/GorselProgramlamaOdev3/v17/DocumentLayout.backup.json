@@ -1,0 +1,421 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\source\\repos\\GorselProgramlamaOdev3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{437C0D5A-50D3-43A4-950C-E304A227B19D}|GorselProgramlamaOdev3\\GorselProgramlamaOdev3.csproj|c:\\users\\asus\\source\\repos\\gorselprogramlamaodev3\\gorselprogramlamaodev3\\ayarlarsayfasi.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{437C0D5A-50D3-43A4-950C-E304A227B19D}|GorselProgramlamaOdev3\\GorselProgramlamaOdev3.csproj|solutionrelative:gorselprogramlamaodev3\\ayarlarsayfasi.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{437C0D5A-50D3-43A4-950C-E304A227B19D}|GorselProgramlamaOdev3\\GorselProgramlamaOdev3.csproj|c:\\users\\asus\\source\\repos\\gorselprogramlamaodev3\\gorselprogramlamaodev3\\haberdetaysayfasi.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{437C0D5A-50D3-43A4-950C-E304A227B19D}|GorselProgramlamaOdev3\\GorselProgramlamaOdev3.csproj|solutionrelative:gorselprogramlamaodev3\\haberdetaysayfasi.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{437C0D5A-50D3-43A4-950C-E304A227B19D}|GorselProgramlamaOdev3\\GorselProgramlamaOdev3.csproj|c:\\users\\asus\\source\\repos\\gorselprogramlamaodev3\\gorselprogramlamaodev3\\haberlersayfasi.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{437C0D5A-50D3-43A4-950C-E304A227B19D}|GorselProgramlamaOdev3\\GorselProgramlamaOdev3.csproj|solutionrelative:gorselprogramlamaodev3\\haberlersayfasi.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{437C0D5A-50D3-43A4-950C-E304A227B19D}|GorselProgramlamaOdev3\\GorselProgramlamaOdev3.csproj|c:\\users\\asus\\source\\repos\\gorselprogramlamaodev3\\gorselprogramlamaodev3\\havadurumusayfasi.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{437C0D5A-50D3-43A4-950C-E304A227B19D}|GorselProgramlamaOdev3\\GorselProgramlamaOdev3.csproj|solutionrelative:gorselprogramlamaodev3\\havadurumusayfasi.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{437C0D5A-50D3-43A4-950C-E304A227B19D}|GorselProgramlamaOdev3\\GorselProgramlamaOdev3.csproj|c:\\users\\asus\\source\\repos\\gorselprogramlamaodev3\\gorselprogramlamaodev3\\kurlarsayfasi.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{437C0D5A-50D3-43A4-950C-E304A227B19D}|GorselProgramlamaOdev3\\GorselProgramlamaOdev3.csproj|solutionrelative:gorselprogramlamaodev3\\kurlarsayfasi.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{437C0D5A-50D3-43A4-950C-E304A227B19D}|GorselProgramlamaOdev3\\GorselProgramlamaOdev3.csproj|c:\\users\\asus\\source\\repos\\gorselprogramlamaodev3\\gorselprogramlamaodev3\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{437C0D5A-50D3-43A4-950C-E304A227B19D}|GorselProgramlamaOdev3\\GorselProgramlamaOdev3.csproj|solutionrelative:gorselprogramlamaodev3\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{437C0D5A-50D3-43A4-950C-E304A227B19D}|GorselProgramlamaOdev3\\GorselProgramlamaOdev3.csproj|c:\\users\\asus\\source\\repos\\gorselprogramlamaodev3\\gorselprogramlamaodev3\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{437C0D5A-50D3-43A4-950C-E304A227B19D}|GorselProgramlamaOdev3\\GorselProgramlamaOdev3.csproj|solutionrelative:gorselprogramlamaodev3\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{437C0D5A-50D3-43A4-950C-E304A227B19D}|GorselProgramlamaOdev3\\GorselProgramlamaOdev3.csproj|c:\\users\\asus\\source\\repos\\gorselprogramlamaodev3\\gorselprogramlamaodev3\\girissayfasi.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{437C0D5A-50D3-43A4-950C-E304A227B19D}|GorselProgramlamaOdev3\\GorselProgramlamaOdev3.csproj|solutionrelative:gorselprogramlamaodev3\\girissayfasi.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{437C0D5A-50D3-43A4-950C-E304A227B19D}|GorselProgramlamaOdev3\\GorselProgramlamaOdev3.csproj|c:\\users\\asus\\source\\repos\\gorselprogramlamaodev3\\gorselprogramlamaodev3\\kaydolsayfasi.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{437C0D5A-50D3-43A4-950C-E304A227B19D}|GorselProgramlamaOdev3\\GorselProgramlamaOdev3.csproj|solutionrelative:gorselprogramlamaodev3\\kaydolsayfasi.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{437C0D5A-50D3-43A4-950C-E304A227B19D}|GorselProgramlamaOdev3\\GorselProgramlamaOdev3.csproj|c:\\users\\asus\\source\\repos\\gorselprogramlamaodev3\\gorselprogramlamaodev3\\yapilacaklarsayfasi.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{437C0D5A-50D3-43A4-950C-E304A227B19D}|GorselProgramlamaOdev3\\GorselProgramlamaOdev3.csproj|solutionrelative:gorselprogramlamaodev3\\yapilacaklarsayfasi.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{437C0D5A-50D3-43A4-950C-E304A227B19D}|GorselProgramlamaOdev3\\GorselProgramlamaOdev3.csproj|c:\\users\\asus\\source\\repos\\gorselprogramlamaodev3\\gorselprogramlamaodev3\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{437C0D5A-50D3-43A4-950C-E304A227B19D}|GorselProgramlamaOdev3\\GorselProgramlamaOdev3.csproj|solutionrelative:gorselprogramlamaodev3\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{437C0D5A-50D3-43A4-950C-E304A227B19D}|GorselProgramlamaOdev3\\GorselProgramlamaOdev3.csproj|c:\\users\\asus\\source\\repos\\gorselprogramlamaodev3\\gorselprogramlamaodev3\\ayarlarsayfasi.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{437C0D5A-50D3-43A4-950C-E304A227B19D}|GorselProgramlamaOdev3\\GorselProgramlamaOdev3.csproj|solutionrelative:gorselprogramlamaodev3\\ayarlarsayfasi.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{437C0D5A-50D3-43A4-950C-E304A227B19D}|GorselProgramlamaOdev3\\GorselProgramlamaOdev3.csproj|c:\\users\\asus\\source\\repos\\gorselprogramlamaodev3\\gorselprogramlamaodev3\\havadurumusayfasi.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{437C0D5A-50D3-43A4-950C-E304A227B19D}|GorselProgramlamaOdev3\\GorselProgramlamaOdev3.csproj|solutionrelative:gorselprogramlamaodev3\\havadurumusayfasi.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{437C0D5A-50D3-43A4-950C-E304A227B19D}|GorselProgramlamaOdev3\\GorselProgramlamaOdev3.csproj|c:\\users\\asus\\source\\repos\\gorselprogramlamaodev3\\gorselprogramlamaodev3\\haberlersayfasi.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{437C0D5A-50D3-43A4-950C-E304A227B19D}|GorselProgramlamaOdev3\\GorselProgramlamaOdev3.csproj|solutionrelative:gorselprogramlamaodev3\\haberlersayfasi.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{437C0D5A-50D3-43A4-950C-E304A227B19D}|GorselProgramlamaOdev3\\GorselProgramlamaOdev3.csproj|c:\\users\\asus\\source\\repos\\gorselprogramlamaodev3\\gorselprogramlamaodev3\\kurlarsayfasi.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{437C0D5A-50D3-43A4-950C-E304A227B19D}|GorselProgramlamaOdev3\\GorselProgramlamaOdev3.csproj|solutionrelative:gorselprogramlamaodev3\\kurlarsayfasi.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{437C0D5A-50D3-43A4-950C-E304A227B19D}|GorselProgramlamaOdev3\\GorselProgramlamaOdev3.csproj|c:\\users\\asus\\source\\repos\\gorselprogramlamaodev3\\gorselprogramlamaodev3\\girissayfasi.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{437C0D5A-50D3-43A4-950C-E304A227B19D}|GorselProgramlamaOdev3\\GorselProgramlamaOdev3.csproj|solutionrelative:gorselprogramlamaodev3\\girissayfasi.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{437C0D5A-50D3-43A4-950C-E304A227B19D}|GorselProgramlamaOdev3\\GorselProgramlamaOdev3.csproj|c:\\users\\asus\\source\\repos\\gorselprogramlamaodev3\\gorselprogramlamaodev3\\kaydolsayfasi.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{437C0D5A-50D3-43A4-950C-E304A227B19D}|GorselProgramlamaOdev3\\GorselProgramlamaOdev3.csproj|solutionrelative:gorselprogramlamaodev3\\kaydolsayfasi.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{437C0D5A-50D3-43A4-950C-E304A227B19D}|GorselProgramlamaOdev3\\GorselProgramlamaOdev3.csproj|c:\\users\\asus\\source\\repos\\gorselprogramlamaodev3\\gorselprogramlamaodev3\\yapilacaklarsayfasi.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{437C0D5A-50D3-43A4-950C-E304A227B19D}|GorselProgramlamaOdev3\\GorselProgramlamaOdev3.csproj|solutionrelative:gorselprogramlamaodev3\\yapilacaklarsayfasi.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{437C0D5A-50D3-43A4-950C-E304A227B19D}|GorselProgramlamaOdev3\\GorselProgramlamaOdev3.csproj|c:\\users\\asus\\source\\repos\\gorselprogramlamaodev3\\gorselprogramlamaodev3\\services\\firebaseservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{437C0D5A-50D3-43A4-950C-E304A227B19D}|GorselProgramlamaOdev3\\GorselProgramlamaOdev3.csproj|solutionrelative:gorselprogramlamaodev3\\services\\firebaseservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{437C0D5A-50D3-43A4-950C-E304A227B19D}|GorselProgramlamaOdev3\\GorselProgramlamaOdev3.csproj|c:\\users\\asus\\source\\repos\\gorselprogramlamaodev3\\gorselprogramlamaodev3\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{437C0D5A-50D3-43A4-950C-E304A227B19D}|GorselProgramlamaOdev3\\GorselProgramlamaOdev3.csproj|solutionrelative:gorselprogramlamaodev3\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{437C0D5A-50D3-43A4-950C-E304A227B19D}|GorselProgramlamaOdev3\\GorselProgramlamaOdev3.csproj|c:\\users\\asus\\source\\repos\\gorselprogramlamaodev3\\gorselprogramlamaodev3\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{437C0D5A-50D3-43A4-950C-E304A227B19D}|GorselProgramlamaOdev3\\GorselProgramlamaOdev3.csproj|solutionrelative:gorselprogramlamaodev3\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{437C0D5A-50D3-43A4-950C-E304A227B19D}|GorselProgramlamaOdev3\\GorselProgramlamaOdev3.csproj|c:\\users\\asus\\source\\repos\\gorselprogramlamaodev3\\gorselprogramlamaodev3\\model\\haber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{437C0D5A-50D3-43A4-950C-E304A227B19D}|GorselProgramlamaOdev3\\GorselProgramlamaOdev3.csproj|solutionrelative:gorselprogramlamaodev3\\model\\haber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{437C0D5A-50D3-43A4-950C-E304A227B19D}|GorselProgramlamaOdev3\\GorselProgramlamaOdev3.csproj|c:\\users\\asus\\source\\repos\\gorselprogramlamaodev3\\gorselprogramlamaodev3\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{437C0D5A-50D3-43A4-950C-E304A227B19D}|GorselProgramlamaOdev3\\GorselProgramlamaOdev3.csproj|solutionrelative:gorselprogramlamaodev3\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{437C0D5A-50D3-43A4-950C-E304A227B19D}|GorselProgramlamaOdev3\\GorselProgramlamaOdev3.csproj|c:\\users\\asus\\source\\repos\\gorselprogramlamaodev3\\gorselprogramlamaodev3\\model\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{437C0D5A-50D3-43A4-950C-E304A227B19D}|GorselProgramlamaOdev3\\GorselProgramlamaOdev3.csproj|solutionrelative:gorselprogramlamaodev3\\model\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{437C0D5A-50D3-43A4-950C-E304A227B19D}|GorselProgramlamaOdev3\\GorselProgramlamaOdev3.csproj|c:\\users\\asus\\source\\repos\\gorselprogramlamaodev3\\gorselprogramlamaodev3\\model\\doviz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{437C0D5A-50D3-43A4-950C-E304A227B19D}|GorselProgramlamaOdev3\\GorselProgramlamaOdev3.csproj|solutionrelative:gorselprogramlamaodev3\\model\\doviz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\GorselProgramlamaOdev3\\GorselProgramlamaOdev3\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "GorselProgramlamaOdev3\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\GorselProgramlamaOdev3\\GorselProgramlamaOdev3\\MainPage.xaml.cs",
+              "RelativeToolTip": "GorselProgramlamaOdev3\\MainPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T18:01:57.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "KurlarSayfasi.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\GorselProgramlamaOdev3\\GorselProgramlamaOdev3\\KurlarSayfasi.xaml.cs",
+              "RelativeDocumentMoniker": "GorselProgramlamaOdev3\\KurlarSayfasi.xaml.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\GorselProgramlamaOdev3\\GorselProgramlamaOdev3\\KurlarSayfasi.xaml.cs",
+              "RelativeToolTip": "GorselProgramlamaOdev3\\KurlarSayfasi.xaml.cs",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAswAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T18:01:22.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HavaDurumuSayfasi.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\GorselProgramlamaOdev3\\GorselProgramlamaOdev3\\HavaDurumuSayfasi.xaml.cs",
+              "RelativeDocumentMoniker": "GorselProgramlamaOdev3\\HavaDurumuSayfasi.xaml.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\GorselProgramlamaOdev3\\GorselProgramlamaOdev3\\HavaDurumuSayfasi.xaml.cs",
+              "RelativeToolTip": "GorselProgramlamaOdev3\\HavaDurumuSayfasi.xaml.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAowCsAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T18:00:43.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HaberDetaySayfasi.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\GorselProgramlamaOdev3\\GorselProgramlamaOdev3\\HaberDetaySayfasi.xaml.cs",
+              "RelativeDocumentMoniker": "GorselProgramlamaOdev3\\HaberDetaySayfasi.xaml.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\GorselProgramlamaOdev3\\GorselProgramlamaOdev3\\HaberDetaySayfasi.xaml.cs",
+              "RelativeToolTip": "GorselProgramlamaOdev3\\HaberDetaySayfasi.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T16:00:37.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HaberlerSayfasi.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\GorselProgramlamaOdev3\\GorselProgramlamaOdev3\\HaberlerSayfasi.xaml.cs",
+              "RelativeDocumentMoniker": "GorselProgramlamaOdev3\\HaberlerSayfasi.xaml.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\GorselProgramlamaOdev3\\GorselProgramlamaOdev3\\HaberlerSayfasi.xaml.cs",
+              "RelativeToolTip": "GorselProgramlamaOdev3\\HaberlerSayfasi.xaml.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAgwEgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T14:45:03.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AyarlarSayfasi.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\GorselProgramlamaOdev3\\GorselProgramlamaOdev3\\AyarlarSayfasi.xaml.cs",
+              "RelativeDocumentMoniker": "GorselProgramlamaOdev3\\AyarlarSayfasi.xaml.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\GorselProgramlamaOdev3\\GorselProgramlamaOdev3\\AyarlarSayfasi.xaml.cs",
+              "RelativeToolTip": "GorselProgramlamaOdev3\\AyarlarSayfasi.xaml.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAzwBQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T18:16:57.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\GorselProgramlamaOdev3\\GorselProgramlamaOdev3\\MainPage.xaml",
+              "RelativeDocumentMoniker": "GorselProgramlamaOdev3\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\GorselProgramlamaOdev3\\GorselProgramlamaOdev3\\MainPage.xaml",
+              "RelativeToolTip": "GorselProgramlamaOdev3\\MainPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-01-11T16:31:03.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GirisSayfasi.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\GorselProgramlamaOdev3\\GorselProgramlamaOdev3\\GirisSayfasi.xaml.cs",
+              "RelativeDocumentMoniker": "GorselProgramlamaOdev3\\GirisSayfasi.xaml.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\GorselProgramlamaOdev3\\GorselProgramlamaOdev3\\GirisSayfasi.xaml.cs",
+              "RelativeToolTip": "GorselProgramlamaOdev3\\GirisSayfasi.xaml.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T17:57:02.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "KaydolSayfasi.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\GorselProgramlamaOdev3\\GorselProgramlamaOdev3\\KaydolSayfasi.xaml.cs",
+              "RelativeDocumentMoniker": "GorselProgramlamaOdev3\\KaydolSayfasi.xaml.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\GorselProgramlamaOdev3\\GorselProgramlamaOdev3\\KaydolSayfasi.xaml.cs",
+              "RelativeToolTip": "GorselProgramlamaOdev3\\KaydolSayfasi.xaml.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwBoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T17:55:57.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "YapilacaklarSayfasi.xaml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\GorselProgramlamaOdev3\\GorselProgramlamaOdev3\\YapilacaklarSayfasi.xaml",
+              "RelativeDocumentMoniker": "GorselProgramlamaOdev3\\YapilacaklarSayfasi.xaml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\GorselProgramlamaOdev3\\GorselProgramlamaOdev3\\YapilacaklarSayfasi.xaml",
+              "RelativeToolTip": "GorselProgramlamaOdev3\\YapilacaklarSayfasi.xaml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-01-11T14:01:12.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\GorselProgramlamaOdev3\\GorselProgramlamaOdev3\\AppShell.xaml",
+              "RelativeDocumentMoniker": "GorselProgramlamaOdev3\\AppShell.xaml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\GorselProgramlamaOdev3\\GorselProgramlamaOdev3\\AppShell.xaml",
+              "RelativeToolTip": "GorselProgramlamaOdev3\\AppShell.xaml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-01-11T16:21:46.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AyarlarSayfasi.xaml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\GorselProgramlamaOdev3\\GorselProgramlamaOdev3\\AyarlarSayfasi.xaml",
+              "RelativeDocumentMoniker": "GorselProgramlamaOdev3\\AyarlarSayfasi.xaml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\GorselProgramlamaOdev3\\GorselProgramlamaOdev3\\AyarlarSayfasi.xaml",
+              "RelativeToolTip": "GorselProgramlamaOdev3\\AyarlarSayfasi.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-01-11T16:42:39.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HavaDurumuSayfasi.xaml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\GorselProgramlamaOdev3\\GorselProgramlamaOdev3\\HavaDurumuSayfasi.xaml",
+              "RelativeDocumentMoniker": "GorselProgramlamaOdev3\\HavaDurumuSayfasi.xaml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\GorselProgramlamaOdev3\\GorselProgramlamaOdev3\\HavaDurumuSayfasi.xaml",
+              "RelativeToolTip": "GorselProgramlamaOdev3\\HavaDurumuSayfasi.xaml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACEAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-01-11T16:38:38.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "HaberlerSayfasi.xaml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\GorselProgramlamaOdev3\\GorselProgramlamaOdev3\\HaberlerSayfasi.xaml",
+              "RelativeDocumentMoniker": "GorselProgramlamaOdev3\\HaberlerSayfasi.xaml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\GorselProgramlamaOdev3\\GorselProgramlamaOdev3\\HaberlerSayfasi.xaml",
+              "RelativeToolTip": "GorselProgramlamaOdev3\\HaberlerSayfasi.xaml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAADEAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-01-11T14:44:41.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "KurlarSayfasi.xaml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\GorselProgramlamaOdev3\\GorselProgramlamaOdev3\\KurlarSayfasi.xaml",
+              "RelativeDocumentMoniker": "GorselProgramlamaOdev3\\KurlarSayfasi.xaml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\GorselProgramlamaOdev3\\GorselProgramlamaOdev3\\KurlarSayfasi.xaml",
+              "RelativeToolTip": "GorselProgramlamaOdev3\\KurlarSayfasi.xaml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAB4AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-01-11T14:52:56.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "GirisSayfasi.xaml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\GorselProgramlamaOdev3\\GorselProgramlamaOdev3\\GirisSayfasi.xaml",
+              "RelativeDocumentMoniker": "GorselProgramlamaOdev3\\GirisSayfasi.xaml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\GorselProgramlamaOdev3\\GorselProgramlamaOdev3\\GirisSayfasi.xaml",
+              "RelativeToolTip": "GorselProgramlamaOdev3\\GirisSayfasi.xaml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAkAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-01-11T16:35:52.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "KaydolSayfasi.xaml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\GorselProgramlamaOdev3\\GorselProgramlamaOdev3\\KaydolSayfasi.xaml",
+              "RelativeDocumentMoniker": "GorselProgramlamaOdev3\\KaydolSayfasi.xaml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\GorselProgramlamaOdev3\\GorselProgramlamaOdev3\\KaydolSayfasi.xaml",
+              "RelativeToolTip": "GorselProgramlamaOdev3\\KaydolSayfasi.xaml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAgAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-01-11T16:37:55.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "YapilacaklarSayfasi.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\GorselProgramlamaOdev3\\GorselProgramlamaOdev3\\YapilacaklarSayfasi.xaml.cs",
+              "RelativeDocumentMoniker": "GorselProgramlamaOdev3\\YapilacaklarSayfasi.xaml.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\GorselProgramlamaOdev3\\GorselProgramlamaOdev3\\YapilacaklarSayfasi.xaml.cs",
+              "RelativeToolTip": "GorselProgramlamaOdev3\\YapilacaklarSayfasi.xaml.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAkwGEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T14:01:16.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "FirebaseServices.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\GorselProgramlamaOdev3\\GorselProgramlamaOdev3\\Services\\FirebaseServices.cs",
+              "RelativeDocumentMoniker": "GorselProgramlamaOdev3\\Services\\FirebaseServices.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\GorselProgramlamaOdev3\\GorselProgramlamaOdev3\\Services\\FirebaseServices.cs",
+              "RelativeToolTip": "GorselProgramlamaOdev3\\Services\\FirebaseServices.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T18:16:26.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AppShell.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\GorselProgramlamaOdev3\\GorselProgramlamaOdev3\\AppShell.xaml.cs",
+              "RelativeDocumentMoniker": "GorselProgramlamaOdev3\\AppShell.xaml.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\GorselProgramlamaOdev3\\GorselProgramlamaOdev3\\AppShell.xaml.cs",
+              "RelativeToolTip": "GorselProgramlamaOdev3\\AppShell.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T18:00:11.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\GorselProgramlamaOdev3\\GorselProgramlamaOdev3\\App.xaml.cs",
+              "RelativeDocumentMoniker": "GorselProgramlamaOdev3\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\GorselProgramlamaOdev3\\GorselProgramlamaOdev3\\App.xaml.cs",
+              "RelativeToolTip": "GorselProgramlamaOdev3\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T18:00:05.504Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Haber.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\GorselProgramlamaOdev3\\GorselProgramlamaOdev3\\Model\\Haber.cs",
+              "RelativeDocumentMoniker": "GorselProgramlamaOdev3\\Model\\Haber.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\GorselProgramlamaOdev3\\GorselProgramlamaOdev3\\Model\\Haber.cs",
+              "RelativeToolTip": "GorselProgramlamaOdev3\\Model\\Haber.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAA8wCoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T14:44:20.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\GorselProgramlamaOdev3\\GorselProgramlamaOdev3\\App.xaml",
+              "RelativeDocumentMoniker": "GorselProgramlamaOdev3\\App.xaml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\GorselProgramlamaOdev3\\GorselProgramlamaOdev3\\App.xaml",
+              "RelativeToolTip": "GorselProgramlamaOdev3\\App.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-01-11T16:25:18.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Doviz.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\GorselProgramlamaOdev3\\GorselProgramlamaOdev3\\Model\\Doviz.cs",
+              "RelativeDocumentMoniker": "GorselProgramlamaOdev3\\Model\\Doviz.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\GorselProgramlamaOdev3\\GorselProgramlamaOdev3\\Model\\Doviz.cs",
+              "RelativeToolTip": "GorselProgramlamaOdev3\\Model\\Doviz.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T14:55:16.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ToDoItem.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\GorselProgramlamaOdev3\\GorselProgramlamaOdev3\\Model\\ToDoItem.cs",
+              "RelativeDocumentMoniker": "GorselProgramlamaOdev3\\Model\\ToDoItem.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\GorselProgramlamaOdev3\\GorselProgramlamaOdev3\\Model\\ToDoItem.cs",
+              "RelativeToolTip": "GorselProgramlamaOdev3\\Model\\ToDoItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T14:05:56.455Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

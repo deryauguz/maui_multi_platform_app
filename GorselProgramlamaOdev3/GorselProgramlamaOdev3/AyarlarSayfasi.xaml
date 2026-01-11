@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage
+    xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    x:Class="GorselProgramlamaOdev3.AyarlarSayfasi"
+    Title="Ayarlar"
+    Padding="20">
+
+    <VerticalStackLayout Spacing="20">
+
+        <HorizontalStackLayout Spacing="10" VerticalOptions="Start">
+
+            <Label x:Name="TemaLabel" 
+                   Text="Koyu Tema" 
+                   FontSize="18" 
+                   VerticalOptions="Center" />
+
+            <Switch x:Name="TemaSwitch" 
+                    Toggled="TemaSwitch_Toggled" 
+                    HorizontalOptions="EndAndExpand" />
+
+        </HorizontalStackLayout>
+
+    </VerticalStackLayout>
+</ContentPage>

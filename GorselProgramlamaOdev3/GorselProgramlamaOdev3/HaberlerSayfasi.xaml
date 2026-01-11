@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="GorselProgramlamaOdev3.HaberlerSayfasi"
+             Title="Haberler"
+             BackgroundColor="{AppThemeBinding Light=#FFF0F5, Dark=#121212}">
+
+    <Grid RowDefinitions="Auto, Auto, *" Padding="10">
+
+        <Frame Grid.Row="0" Margin="0,0,0,10" Padding="5" CornerRadius="10" 
+               BackgroundColor="{AppThemeBinding Light=White, Dark=#1E1E1E}" BorderColor="#F8BBD0">
+            <Picker x:Name="KategoriSecici" 
+                    Title="Bir Kategori Seçin" 
+                    SelectedIndexChanged="KategoriDegisti"
+                    TextColor="{AppThemeBinding Light=#AD1457, Dark=White}">
+                <Picker.Items>
+                    <x:String>Manşet</x:String>
+                    <x:String>Ekonomi</x:String>
+                    <x:String>Spor</x:String>
+                    <x:String>Teknoloji</x:String>
+                    <x:String>Dünya</x:String>
+                </Picker.Items>
+            </Picker>
+        </Frame>
+
+        <ActivityIndicator x:Name="HaberYukleyici" Grid.Row="1" IsRunning="False" IsVisible="False" 
+                           Color="#AD1457" HeightRequest="40" VerticalOptions="Center" />
+
+        <CollectionView Grid.Row="2" x:Name="HaberListesi" SelectionMode="Single" SelectionChanged="HaberSecildi">
+            <CollectionView.ItemTemplate>
+                <DataTemplate>
+                    <Frame Margin="0,8" Padding="0" CornerRadius="15" HasShadow="True" IsClippedToBounds="True"
+                           BackgroundColor="{AppThemeBinding Light=White, Dark=#1E1E1E}"
+                           BorderColor="{AppThemeBinding Light=#F8BBD0, Dark=#333}">
+
+                        <Grid RowDefinitions="180, Auto">
+                            <Image Grid.Row="0" 
+                                   Source="{Binding Resim}" 
+                                   Aspect="AspectFill" 
+                                   HeightRequest="180" 
+                                   HorizontalOptions="Fill" />
+
+                            <VerticalStackLayout Grid.Row="1" Padding="15" Spacing="5">
+                                <Label Text="{Binding Baslik}" 
+                                       FontSize="16" 
+                                       FontAttributes="Bold" 
+                                       MaxLines="2"
+                                       TextColor="{AppThemeBinding Light=#AD1457, Dark=White}" />
+
+                                <Label Text="{Binding Tarih}" 
+                                       FontSize="12" 
+                                       TextColor="Gray" />
+                            </VerticalStackLayout>
+                        </Grid>
+                    </Frame>
+                </DataTemplate>
+            </CollectionView.ItemTemplate>
+
+            <CollectionView.EmptyView>
+                <VerticalStackLayout HorizontalOptions="Center" VerticalOptions="Center" Padding="50">
+                    <Label Text="Haber bulunamadı veya yükleniyor..." TextColor="Gray" HorizontalTextAlignment="Center" />
+                </VerticalStackLayout>
+            </CollectionView.EmptyView>
+        </CollectionView>
+    </Grid>
+</ContentPage>

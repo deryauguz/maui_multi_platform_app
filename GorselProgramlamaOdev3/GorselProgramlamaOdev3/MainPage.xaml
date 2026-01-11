@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="GorselProgramlamaOdev3.MainPage"
+             Title="Ana Sayfa"
+             BackgroundColor="{AppThemeBinding Light=#FFF0F5, Dark=#2D1B22}">
+    <ScrollView>
+        <VerticalStackLayout Spacing="25" Padding="30" VerticalOptions="CenterAndExpand">
+
+            <Frame HeightRequest="180" 
+                   WidthRequest="180" 
+                   CornerRadius="90" 
+                   Padding="0" 
+                   IsClippedToBounds="True" 
+                   HorizontalOptions="Center"
+                   BorderColor="#F8BBD0"
+                   HasShadow="True">
+
+                <Image Source="vesikalik.jpeg" 
+                       Aspect="AspectFill" 
+                       HeightRequest="180" 
+                       WidthRequest="180" />
+            </Frame>
+
+            <Label Text="Esma Derya UĞUZ" 
+                   FontSize="28" 
+                   FontAttributes="Bold"
+                   TextColor="#AD1457" 
+                   HorizontalOptions="Center" />
+
+            <Frame BackgroundColor="{AppThemeBinding Light=#FCE4EC, Dark=#3D262E}" 
+                   CornerRadius="15" 
+                   HasShadow="False" 
+                   BorderColor="Transparent" 
+                   Padding="20">
+
+                <VerticalStackLayout Spacing="10">
+                    <Label Text="Bartın Üniversitesi" 
+                           FontSize="18" 
+                           TextColor="#D81B60" 
+                           FontAttributes="Bold"
+                           HorizontalOptions="Center" />
+
+                    <Label Text="Bilgisayar Mühendisliği" 
+                           FontSize="16" 
+                           TextColor="#AD1457" 
+                           HorizontalOptions="Center" />
+
+                    <BoxView HeightRequest="1" Color="#F8BBD0" Margin="0,5" />
+
+                    <Label Text="BSM352 ÖDEV-3" 
+                           FontSize="14" 
+                           FontAttributes="Italic"
+                           TextColor="#C2185B" 
+                           HorizontalOptions="Center" />
+                </VerticalStackLayout>
+            </Frame>
+
+            <Label Text="✨ Hoş Geldiniz ✨" 
+                   FontSize="Small" 
+                   TextColor="#D81B60" 
+                   HorizontalOptions="Center" 
+                   Opacity="0.7" />
+
+        </VerticalStackLayout>
+    </ScrollView>
+
+</ContentPage>

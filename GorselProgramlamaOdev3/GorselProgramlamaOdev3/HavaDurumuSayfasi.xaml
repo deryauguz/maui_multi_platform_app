@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="GorselProgramlamaOdev3.HavaDurumuSayfasi"
+             Title="Hava Durumu">
+
+    <Grid RowDefinitions="Auto, *" Padding="15" >
+        <HorizontalStackLayout Spacing="10" HorizontalOptions="Center">
+            <Entry x:Name="SehirGiris" Placeholder="Şehir (Örn: ANKARA)" WidthRequest="200" />
+            <Button Text="EKLE" Clicked="OnSehirEkleClicked" BackgroundColor="DarkBlue" TextColor="White" />
+            <Button Text="YENİLE" Clicked="OnYenileClicked"  BackgroundColor="#512BD4"  TextColor="White"  />
+        </HorizontalStackLayout>
+
+        <RefreshView Grid.Row="1" x:Name="YenilemeKontrolu" Refreshing="OnYenileClicked">
+            <CollectionView x:Name="SehirlerListesi">
+                <CollectionView.ItemTemplate>
+                    <DataTemplate>
+                        <Frame Margin="0,5" Padding="10" HasShadow="True" CornerRadius="12">
+                            <Grid ColumnDefinitions="*, Auto">
+                                <VerticalStackLayout Grid.Column="0" Spacing="5">
+                                    <Label Text="{Binding Name}" FontAttributes="Bold" FontSize="18" TextColor="DarkBlue" />
+                                    <Image Source="{Binding MgmResimUrl}" HeightRequest="150" Aspect="AspectFit" />
+                                </VerticalStackLayout>
+
+                                <Button Grid.Column="1" Text="Sil" BackgroundColor="Red" TextColor="White" 
+                                        VerticalOptions="Start" Clicked="OnSilClicked" CommandParameter="{Binding .}" />
+                            </Grid>
+                        </Frame>
+                    </DataTemplate>
+                </CollectionView.ItemTemplate>
+            </CollectionView>
+        </RefreshView>
+    </Grid>
+</ContentPage>

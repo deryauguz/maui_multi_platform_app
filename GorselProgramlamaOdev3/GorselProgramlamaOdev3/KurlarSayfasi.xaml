@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="GorselProgramlamaOdev3.KurlarSayfasi"
+             Title="Güncel Kurlar"
+            BackgroundColor="{AppThemeBinding Light={StaticResource White}, Dark={StaticResource Black}}">
+        <ContentPage.ToolbarItems>
+        <ToolbarItem Text="Yenile" Clicked="OnYenileClicked" Priority="0" />
+    </ContentPage.ToolbarItems>
+
+    <Grid RowDefinitions="Auto, *" >
+
+        <Grid BackgroundColor="{AppThemeBinding Light=#EEEEEE, Dark=#2C2C2E}" Padding="5,12">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="2.5*" />
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="35" />
+            </Grid.ColumnDefinitions>
+            <Label Text="VARLIK" TextColor="MediumPurple" FontAttributes="Bold" />
+            <Label Text="ALIŞ" Grid.Column="1" TextColor="MediumPurple" FontAttributes="Bold" HorizontalTextAlignment="Center" />
+            <Label Text="SATIŞ" Grid.Column="2" TextColor="MediumPurple" FontAttributes="Bold" HorizontalTextAlignment="Center" />
+            <Label Text="FARK" Grid.Column="3" TextColor="MediumPurple" FontAttributes="Bold" HorizontalTextAlignment="Center" />
+            <Label Text="YÖN" Grid.Column="4" TextColor="MediumPurple" FontAttributes="Bold" HorizontalTextAlignment="Center" />
+        </Grid>
+
+        <RefreshView Grid.Row="1" x:Name="YenilemeKontrolü" Refreshing="OnRefreshing" RefreshColor="MediumPurple">
+            <CollectionView x:Name="KurlarListe">
+                <CollectionView.ItemTemplate>
+                    <DataTemplate>
+                        <VerticalStackLayout>
+                            <Grid Padding="5,15" ColumnDefinitions="2.5*, *, *, *, 35">
+                                <Label Text="{Binding Tur}" TextColor="MediumPurple" FontAttributes="Bold" VerticalOptions="Center" />
+
+                                <Label Grid.Column="1" Text="{Binding Alis}" 
+                                       TextColor="{AppThemeBinding Light={StaticResource Black}, Dark={StaticResource White}}"
+                                       HorizontalTextAlignment="Center" VerticalOptions="Center" FontSize="12" />
+
+                                <Label Grid.Column="2" Text="{Binding Satis}" 
+                                       TextColor="{AppThemeBinding Light={StaticResource Black}, Dark={StaticResource White}}"
+                                       HorizontalTextAlignment="Center" VerticalOptions="Center" FontSize="12" />
+
+                                <Label Grid.Column="3" Text="{Binding Fark}" 
+                                       TextColor="{AppThemeBinding Light={StaticResource Black}, Dark={StaticResource White}}"
+                                       HorizontalTextAlignment="Center" VerticalOptions="Center" FontSize="12" />
+
+                                <Label Grid.Column="4" Text="{Binding YonOk}" TextColor="{Binding Renk}" FontAttributes="Bold" FontSize="18" HorizontalTextAlignment="Center" />
+                            </Grid>
+                            <BoxView HeightRequest="1" Color="{AppThemeBinding Light=#F0F0F0, Dark=#38383A}" />
+                        </VerticalStackLayout>
+                    </DataTemplate>
+                </CollectionView.ItemTemplate>
+            </CollectionView>
+        </RefreshView>
+
+        <ActivityIndicator x:Name="Yukleyici" Grid.Row="1" IsRunning="False" IsVisible="False" VerticalOptions="Center" HorizontalOptions="Center" Color="MediumPurple" />
+    </Grid>
+</ContentPage>
